@@ -1,7 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
 import FilterProducts from './pages/filterProducts';
-import Login from './pages/Login';
 import Header from './Layout/Header';
 import AddDisease from './pages/AddDisease';
 import bgImage from './assests/images/123.jpg'
