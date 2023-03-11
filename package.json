@@ -1,5 +1,5 @@
 {
-  "proxy": "http://localhost:8080/api",
+  "proxy": "https://oral-medicin-backend.onrender.com/api",
   "name": "oral-react-app",
   "version": "0.1.0",
   "private": true,
